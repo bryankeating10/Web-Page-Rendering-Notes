@@ -1,0 +1,22 @@
+URL Parsing
+
+URL: Uniform Resource Locator
+	- The address used to access resources on the internet
+	- Contains the resource location and protocol used to access it
+	- Location
+		- Host (Domain): Domain name or IP address of server. Example:
+			- www.example.com
+			- 196.168.1.1
+		- Path: Specifies the location of the resource on a server. Example:
+			- /path/to/file
+		- Optional:
+			- Query String: Parameters sent to server to customize display
+			- Fragment: Specific section on webpage
+
+	- Protocol: Method for accessing resouce. Examples:
+		- http: HyperText Transfer Protocol
+		- https: HyperText Transfer Protocol Secure
+		- ftp: File Transfer Protocol
+
+Browser prepares to initiate communication with server
+

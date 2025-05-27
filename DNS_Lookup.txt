@@ -1,3 +1,11 @@
 Domain Name Resolution (DNS Lookup)
 
+DNS: Domain Name System
+	- Browser needs to convert the human-readable domain name into an IP address
+	- The IP address is what the browser uses to connect to the website's IP address
+DNS opperates as a metaphorical phonebook for the internet
+	- Asks a root DNS server
+	- ASks a TLD server
+	- Asks the authoritative DNS server
+The browser then uses the IP to connect to the website
 

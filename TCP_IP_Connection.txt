@@ -1,0 +1,18 @@
+TCP/IP Connection
+
+TCP: Transmission Control Protocol
+	- Ensures reliable, ordered, and error chekced delivery of data
+	- Process:
+		- A socked is opened between the server at the specified IP address and
+		  80 for HTTP and 443 for HTTPS
+		- TCP Handshake is performed
+		- Data is transmitted
+
+IP: Internet Protocol
+	- Handles addressing and routing of data packets
+
+TCP/IP governs how data is packaged, addressed, transmitted, routed, and recieved
+between computers on a network. It's like the postal system where IP is the 
+address on the envelope and TCP ensures the letter is written and recieved both 
+in full and in the correct order
+

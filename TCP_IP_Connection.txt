@@ -6,7 +6,7 @@ TCP: Transmission Control Protocol
 		- A socked is opened between the server at the specified IP address and
 		  80 for HTTP and 443 for HTTPS
 		- TCP Handshake is performed
-		- Data is transmitted
+		- A secure connection is made between computer and server
 
 IP: Internet Protocol
 	- Handles addressing and routing of data packets
